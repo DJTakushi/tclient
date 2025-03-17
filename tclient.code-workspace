@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Default Dark+",
+		"editor.rulers": [
+			{
+				"column": 80,
+				"color": "#80ffff"
+			},
+		],
+		"editor.tabSize": 2,
+		"editor.renderWhitespace": "all",
+	}
+}
